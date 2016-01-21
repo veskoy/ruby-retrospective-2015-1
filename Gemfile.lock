@@ -6,7 +6,7 @@ GEM
     ffi-aspell (1.1.0)
       ffi
     observr (1.0.5)
-    rake (10.4.2)
+    rake (10.5.0)
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
       rspec-expectations (~> 3.4.0)
@@ -35,4 +35,4 @@ DEPENDENCIES
   skeptic (~> 0.0.16)
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
